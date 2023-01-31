@@ -4,7 +4,7 @@
 In the near future this project will not have any changes. But I plan to make a clone of the latest version Tokopedia.
 
 <img src="image/home.jpg" width="200"> &nbsp;
-<img src="image/akun.jpg" width="200">
+![GOJEK <3 Flutter](https://cdn-images-1.medium.com/max/1600/1*ykyQugsLdmh5DbOW5zA81w.gif)
 
 
 
