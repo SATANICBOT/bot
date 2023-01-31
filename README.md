@@ -1,4 +1,4 @@
-# Tokopedia Clone v.2020 Clone With Flutter
+# Gojek Clone v.2023 Clone With Flutter
 [![flutter][]][web flutter] [![badge paypal][]][paypal account] [![badge linktree][]][linktree account] <br>
 > Tokopedia UI Clone With Flutter, is used flutter v.1
 In the near future this project will not have any changes. But I plan to make a clone of the latest version Tokopedia.
@@ -12,8 +12,8 @@ In the near future this project will not have any changes. But I plan to make a 
 
 ### 🚧 Maintener 
 [![account avatar][]][github account] <br>
-**Farhan Fadila** <br>
-📫 How to reach me: farhan.fadila1717@gmail.com
+**VINO ALZWARA** <br>
+📫 How to reach me: vinoalzwara@gmail.com
 
 ### ❤️ Suport Maintener
 [![badge paypal][]][paypal account] [![badge linktree][]][linktree account]
